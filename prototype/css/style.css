@@ -14,6 +14,7 @@ body {
 /* * * HEADER * * */
 #logo {
   padding: 5px 10px;
+  background: #3D4983;
 }
 
 #header_img {
@@ -21,6 +22,7 @@ body {
   height: 33.33vh;
   overflow: hidden;
   position: relative;
+  background: #3D4983;
 }
 
 #header_img img {
@@ -60,7 +62,7 @@ body {
     -ms-flex-align: center;
     align-items: center;
 
-    background-color: #3E772F;
+    background-color: #6F9224;
     margin: 0;
 }
 
@@ -79,7 +81,7 @@ body {
 }
 
 #nav li:hover {
-    background-color: #5A934B;
+    background-color: #496808;
 }
 
 #nav li a {
@@ -90,11 +92,7 @@ body {
     padding: 0.3em;
     color: white;
 
-    transition: color 0.3s ease-in;
-}
-
-#nav li a:hover {
-  color: #E6F2BD;
+    transition: border-color 0.3s ease-in;
 }
 
 /* * * BODY * * */
@@ -111,12 +109,12 @@ footer {
 
 /* * * TEXT STYLES * * */
 h1 {
-    color: #356969;
+    color: #606B9F;
     font-size: 1.7em;
 }
 
 .accent1 {
-    color: #356969
+    color: #606B9F;
 }
 
 /* * * MOBILE * * */
