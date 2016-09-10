@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+
+    <body{% if page.id %} id="{{ page.id }}"{% endif %}>
+        <div id="container">
+            {% include header.html %}
+            {% include page_content.html %}
+            {% include footer.html %}
+            {% include js.html %}
+        </div>
+    </body>
+</html>
