@@ -2,10 +2,14 @@
 ---
 @import "colors";
 
+$single-column-breakpoint: 900px;
+
 // MAIN
 body {
   background: $page-background-color;
   font-family: Helvetica;
+  margin: 0;
+  padding: 0;
 }
 
 #container {
@@ -13,6 +17,11 @@ body {
   width: 75%;
   margin: 10px auto;
   min-height: 100%;
+
+  @media screen and (max-width: $single-column-breakpoint) {
+    width: 100%;
+    margin: 0;
+  }
 }
 
 // HEADER
@@ -24,24 +33,25 @@ body {
 #header_img {
   width: 100%;
   height: 35vh;
-  min-height: 250px;
   overflow: hidden;
   position: relative;
-  background: $paletton-blue;
+  background-color: $paletton-blue-lightest;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1920.jpg);
+
+  @media screen and (max-width: 3840px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_3840.jpg); }
+  @media screen and (max-width: 2048px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_2048.jpg); }
+  @media screen and (max-width: 1920px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1920.jpg); }
+  @media screen and (max-width: 1440px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1440.jpg); }
+  @media screen and (max-width: 1280px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1280.jpg); }
+  @media screen and (max-width: 1024px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1024.jpg); }
+  @media screen and (max-width: 960px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_960.jpg); }
+  @media screen and (max-width: 640px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_640.jpg); }
 }
 
-#header_img img {
-  max-width : 100%;
-  height: auto;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-}
-
-#nav {
+ul#nav {
   list-style: none;
 
   display: -ms-flexbox;
@@ -70,6 +80,7 @@ body {
 
   background-color: $paletton-green-dark;
   margin: 0;
+  padding: 0;
 
   li {
     -webkit-flex: 0 1 auto;
@@ -85,7 +96,7 @@ body {
 
     transition: background-color 0.3s ease-in;
 
-    &:hover {
+    &:hover, &:focus, &:active {
       background-color: $paletton-green;
     }
 
@@ -94,31 +105,71 @@ body {
       text-decoration: none;
 
 
-      padding: 0.5em;
+      padding: 0.3em;
       line-height: 1.6em;
       color: white;
 
       transition: border-color 0.3s ease-in;
     }
 
-        // Currently Active Tabs
-        #home-page &#home_nav, 
-        #about-page &#about_nav,
-        #contacts-page &#contacts_nav,
-        #projects-page &#projects_nav,
-        #qualcert-page &#qualcert_nav,
-        #equipment-page &#equipment_nav {
-          background-color: $nav-active-color;
-          a {
-            color: white;
-          }
-        }
+    // Currently Active Tabs
+    #home-page &#home_nav, 
+    #about-page &#about_nav,
+    #contacts-page &#contacts_nav,
+    #projects-page &#projects_nav,
+    #qualcert-page &#qualcert_nav,
+    #equipment-page &#equipment_nav {
+      background-color: $nav-active-color;
+      a {
+        color: white;
       }
-    } 
+    }
+  }
+}
 
 // BODY
 main {
   padding: 0 30px 10px 30px;
+  clear: both;
+
+  img {
+    max-width: 50%;
+    max-height: 75vh;
+    margin: 0 auto;
+
+    @media screen and (max-width: $single-column-breakpoint) {
+      max-width: 90%;
+      max-height: 90vh;
+      margin: 0 auto;
+    }
+  }
+
+  .float-right { float: right; }
+
+  .float-left { float: left; }
+
+  .float-right, .float-left {
+    display: inline-block;
+    padding: 5px;
+    max-width: 38%;
+
+    @media screen and (max-width: $single-column-breakpoint) {
+      max-width: 100%;
+      float: none;
+      padding: none;
+      display: block;
+    }    
+
+    img {
+      margin: 0 auto;
+      max-height: 50vh;
+      max-width: 100%;
+
+      @media screen and (max-width: $single-column-breakpoint) {
+        max-height: 90vh;
+      }
+    }
+  }
 }
 
 // FOOTER
