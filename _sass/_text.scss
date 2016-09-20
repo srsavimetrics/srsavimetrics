@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica;
+}
+
+h1 {
+    color: $paletton-blue;
+    font-size: 1.7em;
+}
+
+h2 {
+    color: $paletton-brown-darkest;
+}
+
+blockquote {
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+}
+
+.accent1 {
+    color: $paletton-blue;
+}
+
+.accent2 {
+    color: $paletton-brown;
+}
+
+.image-caption {
+    text-align: center;
+    color: #333;
+    font-size: 0.8em;
+}

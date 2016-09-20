@@ -1,0 +1,24 @@
+body {
+  background: $page-background-color;
+  margin: 0;
+  padding: 0;
+}
+
+@import "header";
+@import "footer";
+
+#container {
+  background: white;
+  width: 75%;
+  margin: 10px auto;
+  min-height: 100%;
+
+  @media screen and (max-width: $single-column-breakpoint) {
+    width: 100%;
+    margin: 0;
+  }
+}
+
+main {
+  padding: 0 30px 10px 30px;
+}

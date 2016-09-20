@@ -1,34 +1,11 @@
 ---
 ---
+
 @import "colors";
-
-$single-column-breakpoint: 900px;
-
-// MAIN
-body {
-  background: $page-background-color;
-  font-family: Helvetica;
-  margin: 0;
-  padding: 0;
-}
-
-#container {
-  background: white;
-  width: 75%;
-  margin: 10px auto;
-  min-height: 100%;
-
-  @media screen and (max-width: $single-column-breakpoint) {
-    width: 100%;
-    margin: 0;
-  }
-}
-
-// HEADER
-#logo {
-  padding: 5px 10px;
-  background: $paletton-blue;
-}
+@import "variables";
+@import "text";
+@import "layout";
+@import "images";
 
 #header_img {
   width: 100%;
@@ -39,154 +16,24 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1920.jpg);
+  background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1920.jpg);
 
-  @media screen and (min-width: 2049px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_3840.jpg); }
-  @media screen and (max-width: 2048px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_2048.jpg); }
-  @media screen and (max-width: 1920px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1920.jpg); }
-  @media screen and (max-width: 1440px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1440.jpg); }
-  @media screen and (max-width: 1280px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1280.jpg); }
-  @media screen and (max-width: 1024px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_1024.jpg); }
-  @media screen and (max-width: 960px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_960.jpg); }
-  @media screen and (max-width: 640px) { background-image: url({{ site.baseurl }}/assets/img/waterfall_header_640.jpg); }
+  @media screen and (min-width: 2049px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_3840.jpg); }
+  @media screen and (max-width: 2048px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_2048.jpg); }
+  @media screen and (max-width: 1920px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1920.jpg); }
+  @media screen and (max-width: 1440px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1440.jpg); }
+  @media screen and (max-width: 1280px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1280.jpg); }
+  @media screen and (max-width: 1024px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1024.jpg); }
+  @media screen and (max-width: 960px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_960.jpg); }
+  @media screen and (max-width: 640px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_640.jpg); }
 }
 
-ul#nav {
-  list-style: none;
-
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-
-  -webkit-align-content: center;
-  -ms-flex-line-pack: center;
-  align-content: center;
-
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-
-  background-color: $paletton-green-dark;
-  margin: 0;
-  padding: 0;
-
-  li {
-    -webkit-flex: 0 1 auto;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-
-    -webkit-align-self: auto;
-    -ms-flex-item-align: auto;
-    align-self: auto;
-
-    margin: 0.3em 5px;
-    border-radius: 5px;
-
-    transition: background-color 0.3s ease-in;
-
-    &:hover, &:focus, &:active {
-      background-color: $paletton-green;
+#contacts-page main {
+    h2 {
+        margin-bottom: 5px;
     }
 
-    a {
-      font-size: 1.3em;
-      text-decoration: none;
-
-
-      padding: 0.3em;
-      line-height: 1.6em;
-      color: white;
-
-      transition: border-color 0.3s ease-in;
+    p {
+        margin-top: 0;
     }
-
-    // Currently Active Tabs
-    #home-page &#home_nav, 
-    #about-page &#about_nav,
-    #contacts-page &#contacts_nav,
-    #projects-page &#projects_nav,
-    #qualcert-page &#qualcert_nav,
-    #equipment-page &#equipment_nav {
-      background-color: $nav-active-color;
-      a {
-        color: white;
-      }
-    }
-  }
 }
-
-// BODY
-main {
-  padding: 0 30px 10px 30px;
-  clear: both;
-
-  img {
-    max-width: 50%;
-    max-height: 75vh;
-    margin: 0 auto;
-
-    @media screen and (max-width: $single-column-breakpoint) {
-      max-width: 90%;
-      max-height: 90vh;
-      margin: 0 auto;
-    }
-  }
-
-  .float-right { float: right; }
-
-  .float-left { float: left; }
-
-  .float-right, .float-left {
-    display: inline-block;
-    padding: 5px;
-    max-width: 38%;
-
-    @media screen and (max-width: $single-column-breakpoint) {
-      max-width: 100%;
-      float: none;
-      padding: none;
-      display: block;
-    }    
-
-    img {
-      margin: 0 auto;
-      max-height: 50vh;
-      max-width: 100%;
-
-      @media screen and (max-width: $single-column-breakpoint) {
-        max-height: 90vh;
-      }
-    }
-  }
-}
-
-// FOOTER
-footer {
-  padding: 10px 20px;
-  background-color: $page-footer-background-color;
-  color: $page-footer-text-color;
-}
-
-// TEXT STYLES
-h1 {
-  color: $paletton-blue-light;
-  font-size: 1.7em;
-}
-
-.accent1 {
-  color: $paletton-blue-light;
-}
-
-// MOBILE
