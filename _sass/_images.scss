@@ -23,7 +23,7 @@ main {
     max-width: 38%;
 
     &.big { 
-      max-width: 45%;
+      max-width: 55%;
 
       @media screen and (max-width: $single-column-breakpoint) {
         max-width: 100%;
@@ -44,7 +44,7 @@ main {
 
     img {
       margin: 0 auto;
-      max-height: 50vh;
+      max-height: 75vh;
       max-width: 100%;
 
       @media screen and (max-width: $single-column-breakpoint) {

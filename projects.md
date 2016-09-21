@@ -5,6 +5,9 @@ id: projects-page
 permalink: /projects
 ---
 
+![]({{site.baseurl}}/assets/img/Coastal stream_biodiversity.jpg)
+{: .float-right}
+
 Over the past 10-15 years, SRS Avimetrics and previous companies owned by Todd Manning have led or been a key partner for at least 100+ projects or contracts in the natural resource management sector. SRS’s core expertise continues to be in the areas of wildlife and habitat inventory and management, and development and implementation of corresponding best practices guidance and mitigation strategies for various resource development scenarios.
 
 Recent major clients have included:
@@ -22,6 +25,7 @@ Recent major clients have included:
  * Canadian Forest Products (Canfor) Ltd.
 
 A few recent project citations include:
+{: style="clear: both;"}
 
 > Manning, T., M. Shepard and P. Chytyk. 2016. Methodology to determine the presence of active bird nests. Unpub. report prep. for BC Hydro, Site C Clean Energy Project, Vancouver, BC. Jan. 14, 2016. 17 pp.
 
@@ -31,11 +35,11 @@ A few recent project citations include:
 
 > Manning, E.T. and I.A. Manley. 2014. Results of fungal inoculation treatments as a habitat enhancement tool in the East Kootenay region of British Columbia: 2007–2013. Prov. B.C., Victoria, B.C. Exten. Note 112. http://www.for.gov.bc.ca/hfd/pubs/Docs/En/En112.htm 
 
-> Chytyk, P. and T. Manning. 2013. COSEWIC Status Report on Queen Charlotte Goshawk (Accipiter gentilis laingi) in Canada.  Report prep. for the Committee on the Status of Endangered Wildlife in Canada, Environment Canada, Ottawa, ON.  May 2013. [http://www.sararegistry.gc.ca/document/default_e.cfm?documentID=751](http://www.sararegistry.gc.ca/document/default_e.cfm?documentID=751)
+> Chytyk, P. and T. Manning. 2013. COSEWIC Status Report on Queen Charlotte Goshawk (Accipiter gentilis laingi) in Canada.  Report prep. for the Committee on the Status of Endangered Wildlife in Canada, Environment Canada, Ottawa, ON.  May 2013. [http://www.sararegistry.gc.ca/document/default_e.cfm?documentID=751](http://www.sararegistry.gc.ca/document/default_e.cfm?documentID=751){:target="_blank"}
 
 > Manning, T. 2013. The development of standing wood decay and its role in wildlife cavity formation – Knowledge synthesis. Report prep. for BC Min. Forests, Lands and Natural Resource Operations, Coast Region, Nanaimo, BC. Nov. 28, 2013
 
-> Manning, T. 2012. Maintaining the integrity of Northern Goshawk nesting and post-fledging areas in the Ecosystem Based Management Plan Area of coastal British Columbia: Guidance for forest professionals. Final report prep. for Coast Forest Conservation Initiative, Vancouver, BC. June 22, 2012. URL: [http://www.coastforestconservationinitiative.com/_Updates/_updates.html](http://www.coastforestconservationinitiative.com/_Updates/_updates.html) 
+> Manning, T. 2012. Maintaining the integrity of Northern Goshawk nesting and post-fledging areas in the Ecosystem Based Management Plan Area of coastal British Columbia: Guidance for forest professionals. Final report prep. for Coast Forest Conservation Initiative, Vancouver, BC. June 22, 2012. URL: [http://www.coastforestconservationinitiative.com/_Updates/_updates.html](http://www.coastforestconservationinitiative.com/_Updates/_updates.html){:target="_blank"}
 
 > Manning, T. 2012. Wildlife/Danger Tree Strategy for lands managed by CRD Integrated Water Services. Final report prep. for CRD Integrated Water Services, Watershed Protection Div., Victoria, BC. May 2012.
 
