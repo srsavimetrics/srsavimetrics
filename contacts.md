@@ -9,7 +9,7 @@ permalink: /contacts
 {: .float-right.big}
 
 ## Todd Manning
-**Owner and Principal**  
+**Owner and Principal Ecologist**  
 RPBio., RPF, QEP, ISA Cert. Arborist  
 *Email:* [etmanning@shaw.ca](mailto:etmanning@shaw.ca){:target="_blank"}  
 *Office:* [(250) 478-7822](tel:2504787822)  
@@ -28,7 +28,7 @@ RBTech., QEP
 *Cell:* [(250) 818-7065](tel:2508187065)
 
 ## Ryan Murphy
-**Senior Biology Technician and Senior Arborist**  
+**Senior Biology Technologist and Senior Arborist**  
 RBTech., QEP, ISA Cert. Arborist  
 *Email:* [ryaninthetrees@gmail.com](mailto:ryaninthetrees@gmail.com){:target="_blank"}  
 *Cell:* [(250) 465-2154](tel:2504652154)

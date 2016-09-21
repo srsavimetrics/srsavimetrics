@@ -21,5 +21,5 @@ These include:
 * Specialized equipment for conducting arboreal fungal inoculation and habitat enhancement treatments
 * Unmanned aerial vehicle (UAV, Aeryon SkyRanger) with enhanced optical and infrared camera payloads for conducting specialized photographic inventory and mapping, 
 
-SRS carries Comprehensive General Liability insurance ($2M limit) covering forestry/environmental consulting and commercial aerial photography operations.
+SRS carries **Comprehensive General Liability insurance** ($2M limit) covering forestry/environmental consulting and commercial aerial photography operations.
 {: style="clear: both;"}
