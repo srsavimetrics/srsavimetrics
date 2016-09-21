@@ -33,7 +33,7 @@ A few recent project citations include:
 
 > Manning, T. 2015. Wildlife Habitat Features Guidance. Final report prep. for BC Min. Environment, Ecosystem Protection and Sustainability Br., Victoria, BC. March 23, 2015. 89 pp.
 
-> Manning, E.T. and I.A. Manley. 2014. Results of fungal inoculation treatments as a habitat enhancement tool in the East Kootenay region of British Columbia: 2007–2013. Prov. B.C., Victoria, B.C. Exten. Note 112. http://www.for.gov.bc.ca/hfd/pubs/Docs/En/En112.htm 
+> Manning, E.T. and I.A. Manley. 2014. Results of fungal inoculation treatments as a habitat enhancement tool in the East Kootenay region of British Columbia: 2007–2013. Prov. B.C., Victoria, B.C. Exten. Note 112. [http://www.for.gov.bc.ca/hfd/pubs/Docs/En/En112.htm](http://www.for.gov.bc.ca/hfd/pubs/Docs/En/En112.htm){:target="_blank"}
 
 > Chytyk, P. and T. Manning. 2013. COSEWIC Status Report on Queen Charlotte Goshawk (Accipiter gentilis laingi) in Canada.  Report prep. for the Committee on the Status of Endangered Wildlife in Canada, Environment Canada, Ottawa, ON.  May 2013. [http://www.sararegistry.gc.ca/document/default_e.cfm?documentID=751](http://www.sararegistry.gc.ca/document/default_e.cfm?documentID=751){:target="_blank"}
 
