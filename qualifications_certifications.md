@@ -2,6 +2,7 @@
 layout: default
 title: Qualifications &amp; Certifications
 id: qualcert-page
+description: SRS Avimetrics and its staff have extensive training and experience working with the North American ecosystem.
 permalink: /qualifications_certifications
 ---
 

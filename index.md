@@ -24,7 +24,8 @@ Our work includes:
 * Habitat and ecosystem restoration
 * Training and extension
 
-While our specialty is birds and their habitats, we have substantial expertise with the suite of species known as *“wildlife tree users”*. These include cavity nesting birds such as woodpeckers and sapsuckers, as well as large stick nesting raptors, and various secondary cavity dwellers such as small owls, marten, fisher, black bear and bats. We also have significant expertise conducting inventory and habitat assessments for the federally listed Marbled Murrelet, and grizzly bear.
+
+While our specialty is birds and their habitats, we have substantial expertise with the suite of species known as *“wildlife tree users”*. These include cavity nesting birds such as woodpeckers and sapsuckers, as well as large stick nesting raptors (Northern Goshawk, Bald Eagle), and various secondary cavity dwellers such as small owls, marten, fisher, black bear and bats. We also have significant expertise conducting inventory and habitat assessments for the federally listed Marbled Murrelet, and grizzly bear.
 
 SRS has Transport Canada certification for operation of *small unmanned aerial vehicle (UAV) systems* in British Columbia. This advanced technology can be used to efficiently acquire *site-specific photographic inventories* and develop *mapping products* for wildlife habitats and resource development footprint areas.
 
