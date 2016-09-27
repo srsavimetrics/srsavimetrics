@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 id: home-page
 title: SRS Avimetrics
