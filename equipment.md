@@ -2,6 +2,7 @@
 layout: default
 title: Equipment
 id: equipment-page
+description: SRS Avimetrics uses a varety of equipment to conduct various projects to protect endangered species in British Columbia and western North America.
 permalink: /equipment
 ---
 

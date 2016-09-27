@@ -1,6 +1,12 @@
 #logo {
   padding: 5px 10px;
   background: $paletton-blue;
+  text-align: center;
+
+  #logo_img {
+    max-height: 5.5em;
+    max-width: 100%;
+  }
 }
 
 ul#nav {
