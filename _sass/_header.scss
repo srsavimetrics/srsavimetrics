@@ -6,6 +6,10 @@
   #logo_img {
     max-height: 5.5em;
     max-width: 100%;
+
+    @media screen and (max-width: $single-column-breakpoint) {
+      max-height: 4em;
+    }
   }
 }
 
