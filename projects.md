@@ -6,7 +6,7 @@ description: Over the past 10-15 years, SRS Avimetrics and previous companies ow
 permalink: /projects
 ---
 
-![]({{site.baseurl}}/assets/img/Coastal stream_biodiversity.jpg)
+![]({{site.baseurl}}/assets/img/PChytyk.nestsearch.2016.jpg)
 {: .float-right}
 
 Over the past 10-15 years, SRS Avimetrics and previous companies owned by Todd Manning have led or been a key partner for at least 100+ projects or contracts in the natural resource management sector. 

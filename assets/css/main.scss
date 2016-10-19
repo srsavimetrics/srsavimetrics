@@ -15,17 +15,16 @@
   background-color: $paletton-blue-lightest;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1920.jpg);
+  background-position: 50% 20%;
+  background-image: url({{ site.baseurl }}/assets/img/header/peaceriver1920.jpg);
 
-  @media screen and (min-width: 2049px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_3840.jpg); }
-  @media screen and (max-width: 2048px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_2048.jpg); }
-  @media screen and (max-width: 1920px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1920.jpg); }
-  @media screen and (max-width: 1440px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1440.jpg); }
-  @media screen and (max-width: 1280px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1280.jpg); }
-  @media screen and (max-width: 1024px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_1024.jpg); }
-  @media screen and (max-width: 960px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_960.jpg); }
-  @media screen and (max-width: 640px) { background-image: url({{ site.baseurl }}/assets/img/header/waterfall_header_640.jpg); }
+  @media screen and (min-width: 1921px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver2048.jpg); }
+  @media screen and (max-width: 1920px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver1920.jpg); }
+  @media screen and (max-width: 1440px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver1440.jpg); }
+  @media screen and (max-width: 1280px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver1280.jpg); }
+  @media screen and (max-width: 1024px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver1024.jpg); }
+  @media screen and (max-width: 960px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver960.jpg); }
+  @media screen and (max-width: 640px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver640.jpg); }
 }
 
 #contacts-page main {
