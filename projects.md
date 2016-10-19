@@ -13,8 +13,8 @@ Over the past 10-15 years, SRS Avimetrics and previous companies owned by Todd M
 
 These include:
 
-* Major construction and land clearing projects (BC Hydro)
-* Hydro transmission line habitat enhancement projects (BC Hydro)
+* Major construction and land clearing projects
+* Hydro transmission line habitat enhancement projects
 * Natural gas pipeline corridor habitat and species inventory
 * Proposed windfarm and run-of-river location species inventory
 * Stand and landscape scale species at risk inventory and habitat management planning

@@ -20,14 +20,15 @@ Our work includes:
 
 * Species inventories, particularly various species at risk
 * Habitat assessments
-* Habitat management planning, guidance and mitigation strategies, including recommended best practices at multiple spatial and temporal scales 
+* Habitat management planning
+* Developing recommended best management practices, prescriptions, and mitigation strategies for species and habitats at multiple spatial and temporal scales
 * Habitat and ecosystem restoration
-* Training and extension
+* Training and extension, including species inventories and hazard/danger tree assessment
 
 
-While our specialty is birds and their habitats, we have substantial expertise with the suite of species known as *“wildlife tree users”*. These include cavity nesting birds such as woodpeckers and sapsuckers, as well as large stick nesting raptors (Northern Goshawk, Bald Eagle), and various secondary cavity dwellers such as small owls, marten, fisher, black bear and bats. We also have significant expertise conducting inventory and habitat assessments for the federally listed Marbled Murrelet, and grizzly bear.
+We have substantial expertise with most native bird species in western Canada, and in particular various cavity nesting birds, large stick nesting raptors (e.g., Northern Goshawk, Bald Eagle), Marbled Murrelet, furbearers (e.g., marten, fisher), black bear and grizzly bear, moose and bats.
 
-SRS has Transport Canada certification for operation of *small unmanned aerial vehicle (UAV) systems* in British Columbia. This advanced technology can be used to efficiently acquire *site-specific photographic inventories* and develop *mapping products* for wildlife habitats and resource development footprint areas.
+SRS has Transport Canada certification for operation of *small unmanned aerial vehicle (UAV) systems* in British Columbia. This advanced technology can be used to efficiently acquire *site-specific photographic inventories* and develop *mapping products* for wildlife habitats, wildfire management, and various resource development footprint areas.
 
 [![BC Forest Safety Council SAFE Certified]({{site.baseurl}}/assets/img/bc_safe_certified.png "BC Forest Safety Council SAFE Certified")][bc forest safe link]{:target="_blank"}
 {: style="text-align: center; clear: both;"}

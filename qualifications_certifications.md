@@ -17,7 +17,7 @@ Company owner, Todd Manning is a professional biologist and professional foreste
 
 Todd has worked on a variety of other wildlife species, ranging from grizzly bear to moose, to forest songbirds and Marbled Murrelet, conducting habitat suitability assessments and modelling, species inventories, training workshops, and habitat management planning and best practices development at multiple spatial scales. In this context, Todd has authored well over 100 technical, management and policy related reports and publications.
 
-Mr. Manning is also a certified arborist, specializing in hazard tree assessments and habitat restoration practices. As well, Todd is an experienced educator, having developed and taught 15 different natural resource management-related training courses and workshops to resource professionals, forest workers, college students and the public.
+Mr. Manning is also a certified arborist, specializing in hazard tree assessments and habitat restoration practices. As well, Todd is an experienced educator, having developed and taught 15 different natural resource management-related training courses and workshops, including the provincially endorsed B.C. Wildlife/Danger Tree Assessor’s Course modules, to resource professionals, forest workers, college students and the public.
 
 ### Michael Shepard
 
@@ -27,7 +27,9 @@ Mr. Shepard is also very knowledgeable in the biology of native amphibians and r
 
 ### Paul Chytyk
 
-Senior Wildlife Ecologist, Paul Chytyk, has worked as a wildlife consultant for over 20 years and has authored over 100 reports and journal articles on species inventory, environmental impact assessments, habitat modeling and wildlife policy. He has coordinated wildlife inventories and environmental impact assessments for LNG pipelines, highways, windfarms, hydro dams, and utility transmission projects across British Columbia, Alberta and Saskatchewan. He has developed and ground-truthed habitat models for various SARA-listed species. Specializing in ornithology, Paul annually conducts bird surveys and has authored various federal and provincial species status reports and species accounts in the BC Bird Atlas. He has helped coordinate successful submissions of large, multi-volumed applications for run-of-river projects as well as other resource projects to the BC Environmental Assessment Office. Paul has also led communications, engagement and public facilitation efforts for various provincial initiatives, including the B.C. Cumulative Effects Framework, Identified Wildlife Management Strategy, Regionally Important Wildlife Strategy and the Conservation Framework.
+Senior Wildlife Ecologist, Paul Chytyk, has worked as a wildlife consultant for over 20 years and has authored over 100 reports and journal articles on species inventory, environmental impact assessments, habitat modeling and wildlife policy. He has coordinated wildlife inventories and environmental impact assessments for LNG pipelines, highways, windfarms, hydro dams, and utility transmission projects across British Columbia, Alberta and Saskatchewan. He has developed and ground-truthed habitat models for various SARA-listed species.
+
+Specializing in ornithology, Paul annually conducts bird surveys and has authored various federal and provincial species status reports and species accounts in the BC Bird Atlas. He has helped coordinate successful submissions of large, multi-volume applications for run-of-river projects as well as other resource projects to the BC Environmental Assessment Office. Paul has also led communications, engagement and public facilitation efforts for various provincial initiatives, including the B.C. Cumulative Effects Framework, Identified Wildlife Management Strategy, Regionally Important Wildlife Strategy and the Conservation Framework.
 
 ## Company Certifications
 
