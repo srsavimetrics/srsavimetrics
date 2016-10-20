@@ -15,7 +15,6 @@ These include:
 
 * 4x4 trucks
 * Field communications and safety equipment (e.g., SPOT messengers, VHF radios)
-* VHF radios
 * iPads
 * Appropriate personal protective equipment (PPE) for all field staff
 * Specialized equipment for conducting avian call playback surveys
