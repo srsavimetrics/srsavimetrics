@@ -4,21 +4,60 @@ body {
   padding: 0;
 }
 
+#parallax {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  perspective: 1px;
+}
+
 @import "header";
 @import "footer";
 
 #container {
-  background: white;
-  width: 75%;
-  margin: 10px auto;
+  border-top: 10px solid $page-background-color;
+  border-bottom: 10px solid $page-background-color;
+  border-left: 12.5vw solid $page-background-color;
+  border-right: 12.5vw solid $page-background-color;
+  position: relative;
   min-height: 100%;
+  transform: translateZ(0);
 
   @media screen and (max-width: $single-column-breakpoint) {
-    width: 100%;
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     margin: 0;
   }
 }
 
+#header_img {
+  position: absolute;
+  top: -5%;
+  left: 25%;
+  right: 25%;
+  height: 40vh;
+  transform: translateZ(-1px) scale(3);
+  background-color: $paletton-blue-lightest;
+  background-size: cover;
+  background-repeat: no-repeat;
+  // background-attachment: fixed;
+  background-position: 50% 20%;
+
+  @media screen and (max-width: $single-column-breakpoint) {
+    left: 0;
+    right: 0;
+  }
+  @media screen and (min-height: 1500px) {
+    top: -15vh;
+  }
+}
+
 main {
-  padding: 0 30px 10px 30px;
+  padding: 1px 30px 10px 30px;
+  background: white;
+  min-height: 25vh;
 }
