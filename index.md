@@ -8,8 +8,8 @@ permalink: /
 SRS Avimetrics is an independently owned **natural resource and environmental consulting company**. SRS works extensively with threatened and endangered wildlife species in British Columbia and western North America.
 
 <div class="float-right" markdown="block">
-![Goshawk with chick]({{site.baseurl}}/assets/img/goshawk_adult_chick_small.jpg "Goshawk with chick, photo by Rory Hill")
-Goshawk with chick, photo by Rory Hill
+![Goshawk with chick]({{site.baseurl}}/assets/img/goshawk_adult_chick_small.jpg "Goshawk with chick, photo by John Deal")
+Goshawk with chick, photo by John Deal
 {: .image-caption}
 </div>
 
