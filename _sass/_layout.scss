@@ -61,3 +61,10 @@ main {
   background: white;
   min-height: 25vh;
 }
+
+main:after {
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+}
