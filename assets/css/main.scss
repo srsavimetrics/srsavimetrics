@@ -8,6 +8,7 @@
 @import "images";
 
 #header_img {
+  image-rendering: -moz-crisp-edges;
   image-rendering: pixelated;
   background-image: url({{ site.baseurl }}/assets/img/header/peaceriver1920.jpg);
   @media screen and (min-width: 1921px) { background-image: url({{ site.baseurl }}/assets/img/header/peaceriver2048.jpg); }
