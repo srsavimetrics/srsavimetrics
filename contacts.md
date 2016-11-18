@@ -20,7 +20,7 @@ Canada
 
 *Email:* [etmanning@shaw.ca](mailto:etmanning@shaw.ca){:target="_blank"}  
 *Office:* [(250) 478-7822](tel:2504787822)  
-*Cell:* [(250) 818-8788](tel:2508188718)
+*Cell:* [(250) 818-8718](tel:2508188718)
 
 ## Michael Shepard
 **Senior Wildlife Biologist**  
