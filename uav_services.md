@@ -11,7 +11,7 @@ With its fleet of advanced UAVs, camera payloads and image rendering software, S
 * Ungulate winter range
 * Old forest canopy structure
 * Wetland health: riparian and near-shore aquatic vegetation, shoreline condition
-* waterfowl and shorebird inventory
+* Waterfowl and shorebird inventory
 * Large stick nest monitoring (e.g., Bald Eagle)
 
 ## Forest and Range Practices Monitoring
@@ -27,7 +27,7 @@ With its fleet of advanced UAVs, camera payloads and image rendering software, S
 ## Land Development and Construction Projects
 * Quarries, strip and open pit mines, reservoirs
   * Photo-chronicling, 3D orthomasaics, digital surface models, aggregate volume calculations
-* linear corridor monitoring (hydro-electric transmission lines, pipelines) – vegetation encroachment, spills
+* Linear corridor monitoring (hydro-electric transmission lines, pipelines) – vegetation encroachment, spills
 
 ## Residential and Commercial Developments
 * Overhead and oblique property photos
