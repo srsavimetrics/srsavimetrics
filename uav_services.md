@@ -26,7 +26,7 @@ With its fleet of advanced UAVs, camera payloads and image rendering software, S
 
 ## Land Development and Construction Projects
 * Quarries, strip and open pit mines, reservoirs
-  * Photo-chronicling, 3D orthomasaics, digital surface models, aggregate volume calculations
+  * Photo-chronicling, 3D orthomosaics, digital surface models, aggregate volume calculations
 * Linear corridor monitoring (hydro-electric transmission lines, pipelines) – vegetation encroachment, spills
 
 ## Residential and Commercial Developments
