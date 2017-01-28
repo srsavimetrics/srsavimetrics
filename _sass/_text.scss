@@ -36,23 +36,30 @@ main {
         font-size: 0.8em;
     }
 
-    ul li {
-        list-style: none;
-        padding-left: 1em;
-        text-indent: -1em;
-        &:before {
-            font-size: 1em;
-            padding-right: 0.5em;
-            content: "\25CF";
-            color: $paletton-green-dark;
+    ul {
+        padding-left: 2em;
+        @media screen and (max-width: $single-column-breakpoint) {
+            padding-left: 1em;
         }
 
-        ul li:before {
-            content: "\25A0";
-            color: $paletton-green-dark;
-            font-size: 0.8em;
-            padding-right: 0.8em;
-            vertical-align: top;
+        li {
+            list-style: none;
+            padding-left: 1em;
+            text-indent: -1em;
+            &:before {
+                font-size: 1em;
+                padding-right: 0.5em;
+                content: "\25CF";
+                color: $paletton-green-dark;
+            }
+
+            ul li:before {
+                content: "\25A0";
+                color: $paletton-green-dark;
+                font-size: 0.8em;
+                padding-right: 0.8em;
+                vertical-align: top;
+            }
         }
     }
 }
