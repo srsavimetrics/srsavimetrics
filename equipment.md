@@ -19,7 +19,7 @@ These include:
 * Appropriate personal protective equipment (PPE) for all field staff
 * Specialized equipment for conducting avian call playback surveys
 * Specialized equipment for conducting arboreal fungal inoculation and habitat enhancement treatments
-* Unmanned aerial vehicle (Aeryon SkyRanger) with enhanced optical and infrared camera payloads for conducting specialized photographic inventory and mapping, 
+* Unmanned aerial vehicles (Aeryon SkyRanger and DJI Mavic Pro) with enhanced optical and infrared camera payloads for conducting specialized photographic imaging and mapping.
 
 SRS carries Comprehensive General Liability insurance covering forestry/environmental consulting and commercial aerial photography operations.
 {: style="clear: both;"}

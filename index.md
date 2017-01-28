@@ -21,6 +21,7 @@ Our work includes:
 * Developing recommended best management practices, prescriptions, and mitigation strategies for species and habitats at multiple spatial and temporal scales
 * Habitat and ecosystem restoration
 * Training and extension, including species inventories and hazard/danger tree assessment
+* Unmanned aerial vehicle services -- high-quality imaging and mapping
 
 
 We have substantial expertise with most native bird species in western Canada, and in particular various cavity nesting birds, large stick nesting raptors (e.g., Northern Goshawk, Bald Eagle), Marbled Murrelet, furbearers (e.g., marten, fisher), black bear and grizzly bear, moose and bats.
