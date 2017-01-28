@@ -36,29 +36,59 @@ main {
         font-size: 0.8em;
     }
 
+    $bullet-width: 1.2ex;
     ul {
         padding-left: 2em;
-        @media screen and (max-width: $single-column-breakpoint) {
-            padding-left: 1em;
-        }
 
         li {
             list-style: none;
-            padding-left: 1em;
-            text-indent: -1em;
+            padding-left: $bullet-width;
+            text-indent: -$bullet-width;
+
             &:before {
+                display: inline-block;
+                width: $bullet-width;
+                text-align: left;
                 font-size: 1em;
-                padding-right: 0.5em;
                 content: "\25CF";
                 color: $paletton-green-dark;
             }
 
             ul li:before {
+                display: inline-block;
                 content: "\25A0";
                 color: $paletton-green-dark;
                 font-size: 0.8em;
-                padding-right: 0.8em;
+                width: 1.5ex;
                 vertical-align: top;
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: $single-column-breakpoint) {
+    main {
+        ul {
+            padding-left: 1em;
+
+            li {
+                &:before {
+                    display: inline-block;
+                    content: "\2022";
+                    color: $paletton-green-dark;
+                    font-size: 1.5em;
+                    width: 0.7ex;
+                }
+
+                ul li:before {
+                    display: inline-block;
+                    content: "\2022";
+                    color: $paletton-green-dark;
+                    font-size: 1.5em;
+                    width: 0.7ex;
+                    vertical-align: inherit;
+                }
             }
         }
     }
