@@ -1,0 +1,46 @@
+---
+---
+
+@media print {
+
+  #header_img {
+    display: none;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: column;
+    position: static;
+    width: 100%;
+    min-height: 100vh;
+    transform: none;
+    height: auto;
+    border: none;
+  }
+
+  #logo img {
+    height: 0.66in;
+  }
+
+
+
+  #header_container {
+    height: 2.75in;
+    background-image: url({{ site.baseurl }}/assets/img/header/peaceriver2048.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: left 15%;
+  }
+
+  ul#nav li a, footer {
+    font-size: 0.8em; 
+  }
+  
+  main {
+    flex: 1 2 auto;
+  }
+
+  footer {
+    padding: 0.3em 1em;
+  }
+}
