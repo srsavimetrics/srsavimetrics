@@ -29,6 +29,9 @@ With its fleet of advanced UAVs, camera payloads and image rendering software, S
   * Photo-chronicling, 3D orthomosaics, digital surface models (DSM), aggregate volume calculations
 * Linear corridor monitoring (hydro-electric transmission lines, pipelines) – vegetation encroachment, spills
 
+![UAV photo of house and acreage]({{site.baseurl}}/assets/img/UAV Shot House and Acreage.jpg "UAV photo of house and acreage")
+{: .float-right}
+
 ## Residential and Commercial Developments
 * Overhead and oblique property photos
 * Property boundaries

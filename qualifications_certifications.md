@@ -6,7 +6,7 @@ description: SRS Avimetrics and its staff have extensive training and experience
 permalink: /qualifications_certifications
 ---
 
-![]({{site.baseurl}}/assets/img/IMGP0034.JPG)
+![]({{site.baseurl}}/assets/img/IMGP0034_2.JPG)
 {: .float-right}
 
 ## Personnel Qualifications
@@ -16,8 +16,6 @@ permalink: /qualifications_certifications
 Company owner, Todd Manning is a professional biologist and professional forester. He is considered an expert in the ecology and management of the threatened coastal Northern Goshawk, and is involved extensively in monitoring, recovery efforts, and landscape-scale planning for this forest-dwelling raptor. Mr. Manning is also considered an expert in the ecology and management of wildlife trees (i.e., dead and dying trees), including many of the 70+ animal species which utilize these valuable forest structural elements. Todd is a pioneer in the use of innovative fungal inoculation treatments to create wildlife trees as part of ecosystem enhancement and habitat restoration treatments, and has extensive experience in focal species-driven landscape reserve design planning on the coast of B.C. (*"The Great Bear Rainforest Ecosystem Based Management Land Use Order"*).
 
 Todd has worked on a variety of other wildlife species, ranging from grizzly bear to moose, to forest songbirds and Marbled Murrelet, conducting habitat suitability assessments and modelling, species inventories, training workshops, and habitat management planning and best practices development at multiple spatial scales. In this context, Todd has authored well over 100 technical, management and policy related reports and publications.
-
-Mr. Manning is also a certified arborist, specializing in hazard tree assessments and habitat restoration practices. As well, Todd is an experienced educator, having developed and taught 15 different natural resource management-related training courses and workshops, including the provincially endorsed B.C. Wildlife/Danger Tree Assessor’s Course modules, to resource professionals, forest workers, college students and the public.
 
 ### Michael Shepard
 
@@ -30,6 +28,10 @@ Mr. Shepard is also very knowledgeable in the biology of native amphibians and r
 Senior Wildlife Ecologist, Paul Chytyk, has worked as a wildlife consultant for over 20 years and has authored over 100 reports and journal articles on species inventory, environmental impact assessments, habitat modeling and wildlife policy. He has coordinated wildlife inventories and environmental impact assessments for LNG pipelines, highways, windfarms, hydro dams, and utility transmission projects across British Columbia, Alberta and Saskatchewan. He has developed and ground-truthed habitat models for various SARA-listed species.
 
 Specializing in ornithology, Paul annually conducts bird surveys and has authored various federal and provincial species status reports and species accounts in the BC Bird Atlas. He has helped coordinate successful submissions of large, multi-volume applications for run-of-river projects as well as other resource projects to the BC Environmental Assessment Office. Paul has also led communications, engagement and public facilitation efforts for various provincial initiatives, including the B.C. Cumulative Effects Framework, Identified Wildlife Management Strategy, Regionally Important Wildlife Strategy and the Conservation Framework.
+
+### Ryan Murphy
+
+Senior Biology Technologist and Senior Arborist, Ryan Murphy is a registered biology technologist who has worked as a wildlife consultant and field technician.  Ryan is also a highly experienced, certified arborist. This unique combination of skills has made him valuable in projects involving arboreal ecosystems.  He has worked on ecosystem restoration projects involving fungal inoculation and wildlife tree modification techniques. He also has extensive experience conducting field surveys for raptors and nesting songbirds.  Ryan has utilized his extensive climbing experience to access various raptor species nests for objectives such as nestling banding and feather collection, as well as installation of artificial nesting platforms and nest monitoring cameras.  Ryan is experienced in data acquisition and management including UAV-collected geomatics information for ecosystem and habitat mapping and inventory.
 
 ## Company Certifications
 

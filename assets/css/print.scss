@@ -3,15 +3,17 @@
 
 @media print {
 
+  body, #container {
+    background: white;
+  }
+
   #header_img {
     display: none;
   }
 
   #container {
-    display: flex;
-    flex-direction: column;
+    display: block;
     position: static;
-    width: 100%;
     min-height: 100vh;
     transform: none;
     height: auto;
@@ -22,11 +24,9 @@
     height: 0.66in;
   }
 
-
-
   #header_container {
     height: 2.75in;
-    background-image: url({{ site.baseurl }}/assets/img/header/peaceriver2048.jpg);
+    background-image: url({{ site.baseurl }}/assets/img/header/peaceriver2048.jpg?l);
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: left 15%;
@@ -37,10 +37,29 @@
   }
   
   main {
-    flex: 1 2 auto;
+    page-break-inside: auto;
+
+    img {
+      max-width: 70% !important;
+      max-height: 4in !important;
+      margin: 0 auto !important;
+      page-break-before: auto !important;
+      page-break-after: auto !important;
+      page-break-inside: avoid !important;
+    }
+
+    .float-left, .float-right {
+      margin: 0 auto;
+      float: none !important;
+      display: block !important;
+      max-width: none !important;
+      width: 100% !important;
+    }
   }
 
   footer {
     padding: 0.3em 1em;
+    page-break-before: avoid;
+    page-break-inside: avoid;
   }
 }

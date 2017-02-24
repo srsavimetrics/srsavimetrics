@@ -26,7 +26,7 @@ Our work includes:
 
 We have substantial expertise with most native bird species in western Canada, and in particular various cavity nesting birds, large stick nesting raptors (e.g., Northern Goshawk, Bald Eagle), Marbled Murrelet, furbearers (e.g., marten, fisher), black bear and grizzly bear, moose and bats.
 
-SRS has Transport Canada certification for operation of small unmanned aerial vehicle (UAV) systems in British Columbia. This advanced technology can be used to efficiently acquire site-specific photographic inventories and develop mapping products for wildlife habitats, wildfire management, and various resource development footprint areas.
+SRS has Transport Canada certification for operation of small unmanned aerial vehicle (UAV) systems in British Columbia. This advanced technology can be used to efficiently acquire site-specific photographic inventories and develop mapping products for wildlife habitats, wildfire management, aquatic and terrain features, and various resource development footprint areas.
 
 [![BC Forest Safety Council SAFE Certified]({{site.baseurl}}/assets/img/bc_safe_certified.png "BC Forest Safety Council SAFE Certified")][bc forest safe link]{:target="_blank"}
 {: style="text-align: center; clear: both;"}
