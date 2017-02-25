@@ -1,5 +1,6 @@
 ---
 ---
+@import "colors";
 
 @media print {
 
@@ -26,6 +27,7 @@
 
   #header_container {
     height: 2.75in;
+    background-color: $paletton-blue-lightest;
     background-image: url({{ site.baseurl }}/assets/img/header/peaceriver2048.jpg?l);
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -34,6 +36,10 @@
 
   ul#nav li a, footer {
     font-size: 0.8em; 
+  }
+
+  ul#nav li:hover, ul#nav li:active {
+    background-color: inherit;
   }
   
   main {

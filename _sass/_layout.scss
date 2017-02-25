@@ -62,6 +62,13 @@ main {
   padding: 1px 30px 10px 30px;
   background: white;
   min-height: 25vh;
+
+  article {
+    width: 100%;
+    max-width: 160ex;
+    margin: 0 auto;
+  }
+
 }
 
 main:after {

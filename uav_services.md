@@ -4,6 +4,11 @@ title: UAV Services
 id: uav-page
 permalink: /uav_services
 ---
+<div class="float-right" markdown="block">
+![Example UAV autogrid flight pattern over a recently harvested cutblock]({{site.baseurl}}/assets/img/uav_pattern.JPG "Example UAV autogrid flight pattern over a recently harvested cutblock")
+Example UAV autogrid flight pattern over a recently harvested cutblock
+{: .image-caption}
+</div>
 
 With its fleet of advanced UAVs, camera payloads and image rendering software, SRS can provide high quality imaging and mapping products for:
 
@@ -29,8 +34,11 @@ With its fleet of advanced UAVs, camera payloads and image rendering software, S
   * Photo-chronicling, 3D orthomosaics, digital surface models (DSM), aggregate volume calculations
 * Linear corridor monitoring (hydro-electric transmission lines, pipelines) – vegetation encroachment, spills
 
-![UAV photo of house and acreage]({{site.baseurl}}/assets/img/UAV Shot House and Acreage.jpg "UAV photo of house and acreage")
-{: .float-right}
+<div class="float-right" markdown="block">
+![Rural residential property overview photo]({{site.baseurl}}/assets/img/UAV Shot House and Acreage.jpg "Rural residential property overview photo")
+Rural residential property overview photo
+{: .image-caption}
+</div>
 
 ## Residential and Commercial Developments
 * Overhead and oblique property photos
