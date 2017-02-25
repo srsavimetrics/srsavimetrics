@@ -6,7 +6,7 @@ description: SRS Avimetrics uses a varety of equipment to conduct various projec
 permalink: /equipment
 ---
 ![SkyRanger UAV]({{site.baseurl}}/assets/img/SkyRanger_hovering.jpg "SkyRanger UAV")
-{: .float-right .big}
+{: .float-right}
 
 *SRS Avimetrics maintains all the necessary logistic and safety equipment for conducting various outdoor field projects.*
 
