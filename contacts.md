@@ -10,7 +10,7 @@ permalink: /contacts
 
 ## Todd Manning
 **Owner and Principal Ecologist**  
-RPBio., RPF, QEP, ISA Cert. Arborist  
+RPBio., RPF, QEP  
 *Address:*
 {:style="margin-bottom: 0;"}
 5148 William Head Rd.  
